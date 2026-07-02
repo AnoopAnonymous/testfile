@@ -1,0 +1,15 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "A classic Snake game built with vanilla HTML, CSS, and JavaScript. Features a polished UI with smooth animations, responsive design, and mobile support.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vercel": "^54.18.7"
+  }
+}
